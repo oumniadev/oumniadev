@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Oumnia Selmane  
 
-<!--
-**oumniadev/oumniadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer in training  
+🌱 Currently learning **React.js** and improving my **JavaScript** skills  
+✨ Passionate about creating clean, modern, and user-friendly websites  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+- HTML5 / CSS3  
+- JavaScript   
+- Git & GitHub  
+- Responsive Web Design  
+
+---
+
+## 📌 Projects (Pinned)  
+Here are some projects you can check out:  
+  
+
+---
+
+## 📫 Contact Me  
+- Email:oumniaselmane8@gmail.com  
+- LinkedIn:(https://www.linkedin.com/in/oumnia-selmane-1bb939328/)
+
+---
+
+⭐️ From [OumniaSelmane](https://github.com/oumniadev)  
+
